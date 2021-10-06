@@ -6,6 +6,7 @@
 ### About Me!
 * 🎓 Undergraduate Student of Informatics Engineering at Brawijaya University, Indonesia
 
+### Contact Me
 <a href="https://twitter.com/NofathZH" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://www.linkedin.com/in/nofathzukhrufihaideal/" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://instagram.com/nrusetski" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
