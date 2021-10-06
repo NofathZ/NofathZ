@@ -17,4 +17,4 @@
 <!-- ![](https://raw.githubusercontent.com/NofathZ/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/NofathZ/github-stats-transparent/output/generated/languages.svg) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NofathZshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NofathZ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
