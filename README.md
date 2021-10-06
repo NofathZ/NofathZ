@@ -12,8 +12,6 @@
 <a href="https://instagram.com/nrusetski" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
 <br />
 
-<!-- [![Nofath's GitHub stats](https://github-readme-stats.vercel.app/api?username=NofathZ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NofathZ&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=NofathZ&show_icons=true&theme=radical">
+
+<img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NofathZ&layout=compact&theme=tokyonight">
