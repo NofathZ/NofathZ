@@ -4,7 +4,7 @@
 ### Web Development and Javascript Enthusiast
 
 ### About Me!
-* 🎓 Undergraduate Student of Informatics Engineering at Brawijaya University, Indonesia
+* 🎓 Undergraduate Student of Informatics Engineering at Brawijaya University, East Java, Indonesia
 
 ### Contact Me
 <a href="https://twitter.com/NofathZH" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
